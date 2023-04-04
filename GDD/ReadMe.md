@@ -1,12 +1,15 @@
 # Game Design Document
-### [<-- ReadMe](ReadMe.md)
+
+### [<-- ReadMe](/README.md)
 
 ---
+
 ---
 
 ## [--> Fabuła <--](/GDD/Fabuła/ReadMe.md)
 
 **Zawiera:**
+
 - Motyw gry
 - Opis Głównej Historii
 - Jak historia ma się rozwijać podczas rozgrywki
@@ -18,6 +21,7 @@
 ## [--> Rozgrywka <--](/GDD/Rozgrywka/ReadMe.md)
 
 **Zawiera:**
+
 - Cel Gry
 - Mechanika gry
 - Opis umiejętności Gracza
@@ -30,10 +34,11 @@
 ## [--> Postacie i Obiekty <--](/GDD/Postacie_i_Obiekty/ReadMe.md)
 
 **Zawiera:**
+
 - Opis Postaci występujących w grze
 - Jaką spełniają role np. handlarz, pomocnik gracza
 - Historia tych postaci oraz ich dialogi
-- Przedmioty które wpływają na rozgrywkę 
+- Przedmioty które wpływają na rozgrywkę
 - Ich specjalne właściwości
 
 ---
@@ -41,6 +46,7 @@
 ## [--> Poziomy <--](/GDD/Poziomy/ReadMe.md)
 
 **Zawiera:**
+
 - Szkice poziomów oraz wykorzystane lokacje do ich stworzenia
 - Opis jak dany poziom będzie działał na rozgrywkę czyli. W jaki sposób on utrudnia czy też ułatwia w graczom wygranie Gry.
 - Opis występujących w nim specjalnych przedmiotów i obiektów.
@@ -50,6 +56,7 @@
 ## [--> Interfejs_Użytkownika <--](/GDD/Interfejs_Użytkownika/ReadMe.md)
 
 **Zawiera:**
+
 - Opis wszystkich scen developera np. Menu główne, sklep
 - Jak ma działać logika UI np. gdzie ma przekierowywać naciśnięty guzik.
 - Jak wiele ekranu będzie zajmować interfejs podczas rozgrywki
@@ -60,6 +67,7 @@
 ## [--> Grafika <--](/GDD/Grafika/ReadMe.md)
 
 **Zawiera:**
+
 - Grafiki koncepcyjne rozgrywki, takie jak mapa, wrogowie, gracze, przedmioty, ...
 - Grafiki Interfejsu użytkownika
 - Animacje postaci
@@ -69,9 +77,10 @@
 
 ---
 
-##  [--> Muzyka <--](/GDD/Muzyka/ReadMe.md)
+## [--> Muzyka <--](/GDD/Muzyka/ReadMe.md)
 
 **Zawiera:**
+
 - Muzykę do Gry
 - Dialogi postaci
 - Dźwięki efektów środowiskowych
@@ -82,6 +91,7 @@
 ## [--> Opis Techniczny <--](/GDD/Opis_Techniczny/ReadMe.md)
 
 **Zawiera:**
+
 - Używany silnik graficzny
 - Platformy na które ma zostać wydana Gra
 - Język Programowania
@@ -94,6 +104,7 @@
 ## [--> Marketing i Monetyzacja <--](/GDD/Marketing_i_Monetyzacja/ReadMe.md)
 
 **Zawiera:**
+
 - Grupa Docelowa, jak jest wielka oraz czemu nie da się jej zwiększyć
 - Ilość potencjalnych odbiorców w każdej Platformie (np. PC, Android, PS4)
 - Jak i Gdzie zostanie gra upubliczniona w celu jej rozpromowania
@@ -105,7 +116,7 @@
 ## [--> Nowe Pomysły <--](/GDD/Nowe_Pomysły/ReadMe.md)
 
 **Zawiera:**
+
 - Jest to baza pomysłów które warto zapamiętać
 - Każdy użytkownik powinien móc wpisywać tutaj co tylko zechce
 - Należy dla każdego każdego pomysłu stworzyć w folderze "Nowe Pomysły" dowolny plik markdown a następnie go opisać
-
