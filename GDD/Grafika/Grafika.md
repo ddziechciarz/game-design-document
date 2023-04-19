@@ -1,5 +1,5 @@
 # Grafika
-### [<-- GDD](/GDD/ReadMe.md)
+### [<-- GDD](/GDD/GDD.md)
 
 ---
 ---

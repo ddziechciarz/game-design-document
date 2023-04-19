@@ -1,5 +1,5 @@
 # Poziomy
-### [<-- GDD](/GDD/ReadMe.md)
+### [<-- GDD](/GDD/GDD.md)
 
 ---
 ---

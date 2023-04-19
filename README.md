@@ -44,6 +44,6 @@
 
 ---
 
-# [--> Pełna Dokumentacja <--](GDD/ReadMe.md)
+# [--> Pełna Dokumentacja <--](/GDD/GDD.md)
 
 
