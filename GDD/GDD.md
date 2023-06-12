@@ -1,4 +1,4 @@
-# Game Design Document
+# GDD - "Nazwa Gry"
 
 ### [<-- ReadMe](/README.md)
 

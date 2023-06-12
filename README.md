@@ -1,3 +1,9 @@
+# "Nazwa Gry"
+
+---
+
+---
+
 ## Opis świata Gry
 
 ...
@@ -40,10 +46,8 @@
 ## Marketing oraz Monetyzacja
 
 - **Grupa Docelowa** - ...
-- **Monetyzacja** -  ...
+- **Monetyzacja** - ...
 
 ---
 
 # [--> Pełna Dokumentacja <--](/GDD/GDD.md)
-
-
