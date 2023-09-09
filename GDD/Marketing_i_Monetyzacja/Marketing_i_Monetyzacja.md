@@ -5,15 +5,13 @@
 ---
 
 ## Rodzaj Dystrybucji: Darmowa, Płatna
-...
-
----
+darmowa
 
 ## Grupa Docelowa
 - ### Zakres grupy
-  ...
+  gracze około 15+
 - ### Do kogo zwracamy się z naszą ofertą
-  ...
+  Ludzie zainteresowani gierkami typu vampire survivors
 - ### Czemu nie da się zwiększyć grupy docelowej 
   ...
 
@@ -22,9 +20,9 @@
 ## Platformy wydania Gry
 - ### PC
 	- #### Wielkość grupy docelowej
-	  ...
+	  XD
 	- #### Cena Produktu
-	  ...
+	  0 zł
 
 ...
 
