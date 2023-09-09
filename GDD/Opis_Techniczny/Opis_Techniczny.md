@@ -5,14 +5,10 @@
 ---
 
 ## Używany silnik graficzny
-...
-
----
+Unity
 
 ## Język Programowania
-...
-
----
+C#
 
 ## Użyte technologie
 ...
@@ -20,22 +16,12 @@
 ---
 
 ## Programy Potrzebne do Pracy na grą
-...
 
----
 
 ## Platformy wydania gry
-...
+PC
 
----
 
-## Komunikacja sieciowa jeżeli jest
-...
-
----
-
-## Komunikacja z Bazą danych
-...
 
 
 
