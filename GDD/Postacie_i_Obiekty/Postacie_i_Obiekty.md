@@ -6,16 +6,10 @@
 
 ## Postacie występujące w Grze
 
-**Przykład:**
-
-- ### Talar - NPC
-	- #### Jaka jest jego rola
-	  Paser i Szpieg
-	- #### Historia Postaci
-	   Temerski szpieg, szef wywiadu i bliski współpracownik króla Foltesta
-	- #### Dialogi jakie wymawia i w jakich sytuacjach
-		- "Jak kurwa jestem a nie bywam" - podczas pożegnania
-		- "To jak kurwa robimy interes czy nie" - na powitanie
+### Protagonista
+- Detektyw
+- Wynajęty przez bogacza, by odnaleźć jego porwane dziecko.
+- Niedoświadczony w potworzych sprawach
 	  
 ---
 
