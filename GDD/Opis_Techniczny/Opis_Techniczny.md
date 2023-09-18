@@ -5,19 +5,18 @@
 ---
 
 ## Używany silnik graficzny
-Unity 2D
+Godot 4
 
 ## Język Programowania
-C#
+GDScript
 
 ## Użyte technologie
-- Unity 2D
+Godot 4
 
 ---
 
 ## Programy Potrzebne do Pracy na grą
-- IDE (np. Rider, Visual Studio) lub edytor tekstu (np. VS Code, Vim (*tfu*))
-- Unity
+- Godot 4
 
 ## Platformy wydania gry
 PC

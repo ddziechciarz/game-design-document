@@ -15,8 +15,8 @@
 
 ## Przedmioty 
 
-**Przykład:**
-- ### Peleryna Niewidka
-  Ukrywa gracza przed wszystkimi postaciami w pobliżu
-
-Nadmierną ilość postaci i przedmiotów można wydzielić do osobnych plików 
+### Bicz (przykładowa broń)
+ - Dobra / zła ścieżka
+  - Zła ścieżka - zamienia się w mackę na wyższych poziomach
+  - Dobra ścieżka - nie wiem, świecący bicz? xD (wyjdzie w praniu)
+  

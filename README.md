@@ -1,4 +1,4 @@
-# "Nazwa Gry"
+# Monstrous Tide *nie finałowa, może się zmienić*
 
 ---
 
@@ -8,7 +8,7 @@
 
 - Londyn, wiek XIX
 - Motywy Lovecraftowe
-- Brak głębokiego lore'u / dużo NPC
+- Brak głębokiego lore'u ani dużo NPC
     - Ewentualnie environmental storytelling
 
 
@@ -22,7 +22,10 @@ Detektyw prowadzący śledztwo w sprawie porwanej córki bogacza
 
 ## Grafiki koncepcyjne
 
-...
+![Protagonista #1](./Media/IMG_0271.jpg)
+![Protagonista #2](./Media/IMG_0278.jpg)
+![Protagonista #3](./Media/IMG_0279.jpg)
+![Protagonista #4](./Media/IMG_0280.jpg)
 
 ---
 
@@ -36,21 +39,22 @@ Detektyw prowadzący śledztwo w sprawie porwanej córki bogacza
 
 ## Mechanika wyróżniająca grę
 
-...
+ - Różne ścieżki rozwoju broni wpływające na rozgrywkę i zakończenie 
+    - np. bicz, który przy demonicznej ścieżce zamienia się w mackę
 
 ---
 
 ## Używane Technologie
 
-- **Silnik**: Unity 2D
-- **Edytor Graficzny:** ...
+- **Silnik**: Godot 4
+- **Edytor Graficzny:** niesprecyzowany
 
 ---
 
 ## Marketing oraz Monetyzacja
 
 - **Grupa Docelowa** - 15+
-- **Monetyzacja** - ...
+- **Monetyzacja** - **na razie** brak
 
 ---
 
